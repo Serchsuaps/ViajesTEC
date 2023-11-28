@@ -1,0 +1,17 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Cherry Monospace-Light.ttf",
+      "sha1": "16234f8342c75c4d71acb0b7cc75175994a6df1d"
+    },
+    {
+      "path": "assets/fonts/JosefinSans-Italic-VariableFont_wght.ttf",
+      "sha1": "6c47591a940e3c86a268d5bed1e151214eb4d1df"
+    },
+    {
+      "path": "assets/fonts/JosefinSans-VariableFont_wght.ttf",
+      "sha1": "ad2439d6f0dfc795c4dbefb342383f9f02810427"
+    }
+  ]
+}
